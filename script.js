@@ -20,7 +20,7 @@ let songs = [
     {songName: "Bhula Dena ", filePath: "songs/2.mp3", coverPath: "covers/8.jpg"},
     {songName: "Hawayein -Arjit Singh", filePath: "songs/2.mp3", coverPath: "covers/9.jpg"},
     {songName: "Putt Jatt Da", filePath: "songs/4.mp3", coverPath: "covers/10.jpg"},
-    {songName: "Falling", filePath: "songs/11.mp3", coverPath: "covers/fallingimg.png"},
+    {songName: "Falling", filePath: "songs/11.mp3", coverPath: "covers/falling.jpg"},
     {songName: "HIM & I", filePath: "songs/12.mp3", coverPath: "covers/10.jpg"},
 ]
 
